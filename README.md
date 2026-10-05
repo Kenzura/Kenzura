@@ -24,6 +24,7 @@
 <table>
 <tr><td width="32%"><b><a href="https://github.com/Kenzura/SI-Ekstrakurikuler-Mutiara-Ilmu">SI-Ekstrakurikuler-Mutiara-Ilmu</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
 <tr><td width="32%"><b><a href="https://github.com/Kenzura/Website-GameStore">Website-GameStore</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
+<tr><td width="32%"><b><a href="https://github.com/Kenzura/Sistem-Inventory-Pagulung-Tambako">Sistem Inventory Pagulung Tambako</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
 </table>
 
 ## Creative toolkit
