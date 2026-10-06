@@ -1,42 +1,27 @@
-## Selected work
+# 💫 About Me:
+ Hi, I'm Gilang Ryan Eka Putra 👋<br><br>🎓 Bachelor of Informatics Graduate<br>💻 Interested in Web Development & Android Development<br>🚀 Passionate about building useful, modern, and user-friendly applications<br>📚 Always learning and exploring new technologies<br><br>About Me<br><br>I am an Informatics graduate with a strong interest in software development, especially **Web Development** and **Android Development**. I enjoy learning new technologies, developing applications, and turning ideas into practical digital solutions.<br><br>Interests<br><br>* 🌐 Web Development<br>* 📱 Android Development<br>* 🎨 UI/UX Design<br>* 💡 Software Development<br>* 🔍 Exploring New Technologies<br>
 
-<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/hero?username=kenzura&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118089710%3Fu%3Dd07944da1cb7a6b22a629ac838b77f6ce7c38e3b%26v%3D4" alt="kenzura hero visual" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/laaanggz_) 
 
-<h1>Gilang Ryan Eka Putra</h1>
-<p><b>Freelance developer or consultant</b></p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=itslangz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=itslangz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=itslangz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=itslangz&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## The idea behind the work
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-> 👋 Hi, I'm Gilang. An Informatics student who enjoys coding, solving problems, and turning ideas into real projects. Always learning something new.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=itslangz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-- 👥 **0** followers · **0** following
+---
+[![](https://komarev.com/ghpvc/?username=itslangz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*Small, useful work over vague claims.*
-
-## Case studies
-
-<table>
-<tr><td width="32%"><b><a href="https://github.com/Kenzura/SI-Ekstrakurikuler-Mutiara-Ilmu">SI-Ekstrakurikuler-Mutiara-Ilmu</a></b></td><td>A selected project from this GitHub profile.<br/><sub>HTML · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Kenzura/Website-GameStore">Website-GameStore</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-<tr><td width="32%"><b><a href="https://github.com/Kenzura/Sistem-Inventory-Pagulung-Tambako">Sistem Inventory Pagulung Tambako</a></b></td><td>A selected project from this GitHub profile.<br/><sub>JavaScript · 0 stars</sub></td></tr>
-</table>
-
-## Creative toolkit
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) `SCSS`
-
-## Make something memorable
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=kenzura&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F118089710%3Fu%3Dd07944da1cb7a6b22a629ac838b77f6ce7c38e3b%26v%3D4" alt="kenzura social visual" />
-</p>
-
-<a href="https://github.com/kenzura">GitHub</a>
-
-<p align="center"><sub>Gilang Ryan Eka Putra · Creative portfolio generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
